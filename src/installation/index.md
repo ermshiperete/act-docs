@@ -45,7 +45,7 @@ You can unpack and run them in terminal specifying full path or add them to one 
 
 ### Build from source
 
-Requires Go toolchain 1.18+
+Requires Go toolchain 1.24+
 
 ```shell
 git clone https://github.com/nektos/act.git
